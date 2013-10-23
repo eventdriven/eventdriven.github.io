@@ -2,15 +2,21 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://eventdriven.github.io/blog/2013/09/28/ursus-studium-przypadku/</loc>
-        <lastmod>2013-10-09T18:33:21+02:00</lastmod>
+        <lastmod>2013-10-23T18:34:57+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://eventdriven.github.io/blog/2013/10/09/event-driven-trading-jako-alternatywa-do-analizy-technicznej-i-fundamentalnej/
+        </loc>
+        <lastmod>2013-10-23T18:34:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://eventdriven.github.io/blog/archives/</loc>
-        <lastmod>2013-10-09T18:33:21+02:00</lastmod>
+        <lastmod>2013-10-23T18:34:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://eventdriven.github.io/</loc>
-        <lastmod>2013-10-09T18:33:21+02:00</lastmod>
+        <lastmod>2013-10-23T18:34:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://eventdriven.github.io/robots.txt</loc>
